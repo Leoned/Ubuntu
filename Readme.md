@@ -10,11 +10,16 @@ Para establecerlo falso
 
 ```conda config --set auto_activate_base False```
 ## Para instalar archivo .sh
-ubiarse en la ruta
+Ubicarse en la ruta
 ```
 sudo chmod +x archivo.sh
 ```
-para instalar
+Para instalar
 ```
 sudo ./archivo.sh
+```
+## Para instalar .deb
+Ejecutar en la terminal, ubicarse en la ruta del archivo y poner el siguiente código
+```
+sudo dpkg -i archivo.deb
 ```
