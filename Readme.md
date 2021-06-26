@@ -23,3 +23,12 @@ Ejecutar en la terminal, ubicarse en la ruta del archivo y poner el siguiente c√
 ```
 sudo dpkg -i archivo.deb
 ```
+## Para instalar .run
+Ejecutar la terminar y ubicarse en la ruta del archivo
+```
+sudo chmod 777 archivo.run
+```
+Luego
+```
+sudo ./archivo.run
+```
