@@ -9,3 +9,12 @@ Esto también puede ser porque ```auto_activate_base``` está configurado en Tru
 Para establecerlo falso
 
 ```conda config --set auto_activate_base False```
+## Para instalar archivo .sh
+ubiarse en la ruta
+```
+sudo chmod +x archivo.sh
+```
+para instalar
+```
+sudo ./archivo.sh
+```
