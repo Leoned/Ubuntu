@@ -19,6 +19,7 @@ Para establecerlo falso
 Ubicarse en la ruta
 
 ```sudo chmod +x archivo.sh```
+
 Para instalar
 
 ```sudo ./archivo.sh```
@@ -30,6 +31,7 @@ Ejecutar en la terminal, ubicarse en la ruta del archivo y poner el siguiente c√
 Ejecutar la terminar y ubicarse en la ruta del archivo
 
 ```sudo chmod 777 archivo.run```
+
 Luego
 
 ```sudo ./archivo.run```
