@@ -1,4 +1,16 @@
 # TIPS
+## Para instalar extras restringido, como fuente y otros
+```
+sduo apt install ubuntu-restricted-extras
+```
+## Gestionar archivo comprimidos
+```
+sudo apt-get install rar unace p7zip p7zip-full p7zip-rar unrar lzip lhasa arj sharutils mpack lzma lzop cabextract
+```
+## para poder retocar ubuntu
+```
+sudo apt install gnome-tweak-tool
+```
 ## Cuando aparece (base) en la terminal
 Esto sucede por haber instalado y ejecutado Anaconda y la terminal conda, para desactivar ello seguir estos pasos en la terminal.
 
