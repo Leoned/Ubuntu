@@ -36,7 +36,7 @@ Luego
 
 ```sudo ./archivo.run```
 
-## Para instalar driver distintos driver de video en ubuntu (Ejm. Nvidia)
+## Para instalar distintos driver de video en ubuntu (Ejm. Nvidia)
 Si por el bucador de controlador de ubuntu se encuntra el driver y se instala, solo queda reiniciar el equipo, si en caso no se soluciona ese procedimiento hacer el siguiente procedimiento mediante linea de comando.
 
 ```sudo nvidia-settings```
