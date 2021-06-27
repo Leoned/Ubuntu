@@ -64,7 +64,7 @@ driver   : xserver-xorg-video-nouveau - distro free builtin
 
 Por lo general es mejor optar la instalación por lo recomendado
 
-```udo apt install nvidia-driver-460```
+```sudo apt install nvidia-driver-460```
 
 Luego se reinicia el sistema para ver los efetos de cambio con el siguiente comando
 
